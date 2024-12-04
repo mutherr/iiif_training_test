@@ -1,0 +1,13 @@
+{
+  "id" : "https://mutherr.github.io/iiif_training_test/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in mutherr/iiif_training_test project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mutherr.github.io/iiif_training_test/manifests/manifest_edited.json",
+    "label" : "[Click to edit label]"
+  } ]
+}
