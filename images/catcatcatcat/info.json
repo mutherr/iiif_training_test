@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 109,
+    "height" : 145
+  }, {
+    "width" : 217,
+    "height" : 289
+  }, {
+    "width" : 434,
+    "height" : 578
+  }, {
+    "width" : 868,
+    "height" : 1156
+  }, {
+    "width" : 1736,
+    "height" : 2312
+  }, {
+    "width" : 3472,
+    "height" : 4624
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3472,
+  "@id" : "https://mutherr.github.io/iiif_training_test/images/catcatcatcat",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4624
+}
