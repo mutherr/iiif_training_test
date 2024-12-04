@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://mutherr.github.io/iiif_training_test/images/pxl-20241203-162524110/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pxl-20241203-162524110"
+                ]
+            },
+            "height": 4624,
+            "width": 3472,
+            "items": [
+                {
+                    "id": "https://mutherr.github.io/iiif_training_test/images/pxl-20241203-162524110/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://mutherr.github.io/iiif_training_test/images/pxl-20241203-162524110/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://mutherr.github.io/iiif_training_test/images/pxl-20241203-162524110/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 109,
+                                                "height": 145
+                                            },
+                                            {
+                                                "width": 217,
+                                                "height": 289
+                                            },
+                                            {
+                                                "width": 434,
+                                                "height": 578
+                                            },
+                                            {
+                                                "width": 868,
+                                                "height": 1156
+                                            },
+                                            {
+                                                "width": 1736,
+                                                "height": 2312
+                                            },
+                                            {
+                                                "width": 3472,
+                                                "height": 4624
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3472,
+                                        "@id": "https://mutherr.github.io/iiif_training_test/images/pxl-20241203-162524110",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4624,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://mutherr.github.io/iiif_training_test/images/pxl-20241203-162524110/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://mutherr.github.io/iiif_training_test/images/catcatcatcat/canvas/",
             "type": "Canvas",
             "label": {
