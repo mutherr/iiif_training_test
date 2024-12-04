@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://mutherr.github.io/iiif_training_test/manifests/manifest_edited.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mutherr.github.io/iiif_training_test/manifests/manifest.json",
+    "label" : "[Click to edit label]"
   } ]
 }
